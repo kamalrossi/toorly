@@ -1,4 +1,4 @@
--Medlytics is a responsive web app for analytics based Healthcare managemet.Major modules include homescreen, services,technology, testimonial, etc.
+2RLY is a landing page for responsive e-commerce apps with simple banner and product recommendations. Major modules include product, product-detail, deal, cart, contact
 
 -project page:https://kamalrossi.github.io/medlytics/
 
