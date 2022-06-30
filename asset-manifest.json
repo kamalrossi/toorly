@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/toorly/static/css/main.a70f9114.chunk.css",
+    "main.js": "/toorly/static/js/main.fe367f8d.chunk.js",
+    "main.js.map": "/toorly/static/js/main.fe367f8d.chunk.js.map",
+    "runtime-main.js": "/toorly/static/js/runtime-main.3c5708b3.js",
+    "runtime-main.js.map": "/toorly/static/js/runtime-main.3c5708b3.js.map",
+    "static/css/2.31ff0196.chunk.css": "/toorly/static/css/2.31ff0196.chunk.css",
+    "static/js/2.63f5c799.chunk.js": "/toorly/static/js/2.63f5c799.chunk.js",
+    "static/js/2.63f5c799.chunk.js.map": "/toorly/static/js/2.63f5c799.chunk.js.map",
+    "static/js/3.6f56d9b0.chunk.js": "/toorly/static/js/3.6f56d9b0.chunk.js",
+    "static/js/3.6f56d9b0.chunk.js.map": "/toorly/static/js/3.6f56d9b0.chunk.js.map",
+    "index.html": "/toorly/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/toorly/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.a70f9114.chunk.css.map": "/toorly/static/css/main.a70f9114.chunk.css.map",
+    "static/js/2.63f5c799.chunk.js.LICENSE.txt": "/toorly/static/js/2.63f5c799.chunk.js.LICENSE.txt",
+    "static/media/toorly.24f20ff1.png": "/toorly/static/media/toorly.24f20ff1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c5708b3.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.63f5c799.chunk.js",
+    "static/css/main.a70f9114.chunk.css",
+    "static/js/main.fe367f8d.chunk.js"
+  ]
+}
